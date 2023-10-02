@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Hesaplama\Hesaplama\bin\Debug\Hesaplama.exe.config
+C:\Users\User\Desktop\Hesaplama\Hesaplama\bin\Debug\Hesaplama.exe
+C:\Users\User\Desktop\Hesaplama\Hesaplama\bin\Debug\Hesaplama.pdb
+C:\Users\User\Desktop\Hesaplama\Hesaplama\obj\Debug\Hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Hesaplama\Hesaplama\obj\Debug\Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Hesaplama\Hesaplama\obj\Debug\Hesaplama.Form1.resources
+C:\Users\User\Desktop\Hesaplama\Hesaplama\obj\Debug\Hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\Hesaplama\Hesaplama\obj\Debug\Hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Hesaplama\Hesaplama\obj\Debug\Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hesaplama\Hesaplama\obj\Debug\Hesaplama.exe
+C:\Users\User\Desktop\Hesaplama\Hesaplama\obj\Debug\Hesaplama.pdb
